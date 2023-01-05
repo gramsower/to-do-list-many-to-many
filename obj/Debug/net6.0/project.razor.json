@@ -16303,8 +16303,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\gregr\\Desktop\\Epicodus\\C#\\section-4-to-do-list-with-many-to-many-csharp-net6-1_starter_project\\ToDoList\\Views\\Tags\\Create.cshtml",
+      "TargetPath": "Views\\Tags\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\gregr\\Desktop\\Epicodus\\C#\\section-4-to-do-list-with-many-to-many-csharp-net6-1_starter_project\\ToDoList\\Views\\Tags\\Index.cshtml",
       "TargetPath": "Views\\Tags\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gregr\\Desktop\\Epicodus\\C#\\section-4-to-do-list-with-many-to-many-csharp-net6-1_starter_project\\ToDoList\\Views\\Tags\\Delete.cshtml",
+      "TargetPath": "Views\\Tags\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16338,6 +16348,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\gregr\\Desktop\\Epicodus\\C#\\section-4-to-do-list-with-many-to-many-csharp-net6-1_starter_project\\ToDoList\\Views\\Tags\\Edit.cshtml",
+      "TargetPath": "Views\\Tags\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\gregr\\Desktop\\Epicodus\\C#\\section-4-to-do-list-with-many-to-many-csharp-net6-1_starter_project\\ToDoList\\Views\\Items\\Create.cshtml",
       "TargetPath": "Views\\Items\\Create.cshtml",
       "FileKind": "mvc"
@@ -16358,6 +16373,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\gregr\\Desktop\\Epicodus\\C#\\section-4-to-do-list-with-many-to-many-csharp-net6-1_starter_project\\ToDoList\\Views\\Items\\AddTag.cshtml",
+      "TargetPath": "Views\\Items\\AddTag.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\gregr\\Desktop\\Epicodus\\C#\\section-4-to-do-list-with-many-to-many-csharp-net6-1_starter_project\\ToDoList\\Views\\Categories\\Edit.cshtml",
       "TargetPath": "Views\\Categories\\Edit.cshtml",
       "FileKind": "mvc"
@@ -16370,6 +16390,11 @@
     {
       "FilePath": "c:\\Users\\gregr\\Desktop\\Epicodus\\C#\\section-4-to-do-list-with-many-to-many-csharp-net6-1_starter_project\\ToDoList\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gregr\\Desktop\\Epicodus\\C#\\section-4-to-do-list-with-many-to-many-csharp-net6-1_starter_project\\ToDoList\\Views\\Tags\\AddItem.cshtml",
+      "TargetPath": "Views\\Tags\\AddItem.cshtml",
       "FileKind": "mvc"
     }
   ],

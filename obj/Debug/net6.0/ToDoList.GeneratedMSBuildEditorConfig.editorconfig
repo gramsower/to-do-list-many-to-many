@@ -39,6 +39,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[c:/Users/gregr/Desktop/Epicodus/C\#/section-4-to-do-list-with-many-to-many-csharp-net6-1_starter_project/ToDoList/Views/Items/AddTag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQWRkVGFnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/gregr/Desktop/Epicodus/C\#/section-4-to-do-list-with-many-to-many-csharp-net6-1_starter_project/ToDoList/Views/Items/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -67,8 +71,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[c:/Users/gregr/Desktop/Epicodus/C\#/section-4-to-do-list-with-many-to-many-csharp-net6-1_starter_project/ToDoList/Views/Tags/AddItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnc1xBZGRJdGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gregr/Desktop/Epicodus/C\#/section-4-to-do-list-with-many-to-many-csharp-net6-1_starter_project/ToDoList/Views/Tags/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gregr/Desktop/Epicodus/C\#/section-4-to-do-list-with-many-to-many-csharp-net6-1_starter_project/ToDoList/Views/Tags/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/gregr/Desktop/Epicodus/C\#/section-4-to-do-list-with-many-to-many-csharp-net6-1_starter_project/ToDoList/Views/Tags/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gregr/Desktop/Epicodus/C\#/section-4-to-do-list-with-many-to-many-csharp-net6-1_starter_project/ToDoList/Views/Tags/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/gregr/Desktop/Epicodus/C\#/section-4-to-do-list-with-many-to-many-csharp-net6-1_starter_project/ToDoList/Views/Tags/Index.cshtml]
